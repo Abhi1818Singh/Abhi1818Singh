@@ -48,25 +48,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhi1818Singh&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Abhi1818Singh&theme=tokyonight" />
-</p>
-
----
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;Hackathon+Enthusiast;Always+Learning+New+Things" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
