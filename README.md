@@ -53,13 +53,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi1818Singh&layout=compact&theme=tokyonight" />
-</p>
-
-
----
-
 <h3 align="center">👨‍💻 Keep Coding</h3>
 
 <p align="center">
