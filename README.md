@@ -41,6 +41,10 @@
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></td>
       <td><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></td>
       <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></td>
+<td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></td>
+<td><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></td>
     </tr>
   </table>
 </p>
